@@ -1,8 +1,9 @@
 ### Hello there; Welcome 👋 
-
 I'm a junior Frontend Developer with an amazing desire to learn and grow in the Tech Ecosystem.
 
-
+<!-- 
+**rahmancodes/rahmancodes** is a _special_ repository because its 'READ.md'( this file ) appears on your GitHub profile. 
+ 
 Here's a quick summary about me:
 
 - 😊 Pronouns: He/him
